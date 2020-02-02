@@ -1,6 +1,6 @@
 {
     "name": "start-journey",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple typescript library development",
     "repository": "https://github.com/haystackjs/start-journey.git",
     "author": "Steve Kite <steve@openland.com>",

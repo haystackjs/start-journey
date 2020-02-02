@@ -1,5 +1,5 @@
 {
     "extends": [
-        "journey-tslint"
+        "journey-tslint/journey-tslint.json"
     ]
 }
