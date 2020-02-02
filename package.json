@@ -1,0 +1,16 @@
+{
+    "name": "start-journey",
+    "version": "1.0.0",
+    "description": "Simple typescript library development",
+    "repository": "https://github.com/haystackjs/start-journey.git",
+    "author": "Steve Kite <steve@openland.com>",
+    "license": "MIT",
+    "bin": {
+        "start-journey": "cli.js"
+    },
+    "dependencies": {
+        "commander": "^4.1.0",
+        "handlebars": "^4.7.2",
+        "latest-version": "^5.1.0"
+    }
+}
